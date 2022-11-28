@@ -1,0 +1,19 @@
+.gradient-custom-3 {
+    background: #4b208c;
+    
+        /* Chrome 10-25, Safari 5.1-6 */
+        background: -webkit-linear-gradient(to bottom right, rgb(86, 2, 159), rgb(70, 2, 104));
+    
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background: linear-gradient(to bottom right, rgb(152, 69, 225), rgb(70, 2, 104))
+}
+
+.gradient-custom-4 {
+    background: #4b208c;
+    
+        /* Chrome 10-25, Safari 5.1-6 */
+        background: -webkit-linear-gradient(to bottom right, rgb(86, 2, 159), rgb(70, 2, 104));
+    
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background: linear-gradient(to bottom right, rgb(147, 55, 227), rgb(70, 2, 104))
+}
